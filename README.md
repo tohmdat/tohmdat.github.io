@@ -1,2 +1,2 @@
-# tohmydat.github.io
+# tohmdat.github.io
 Mi primer sitio web
